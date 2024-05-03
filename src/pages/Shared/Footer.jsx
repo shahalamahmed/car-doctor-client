@@ -4,6 +4,7 @@ const Footer = () => {
     return (
         <footer className="footer p-10 bg-base-200 text-base-content">
             <aside>
+                <img src="https://i.ibb.co/4SRPyYM/Group-2.png" alt="" />
                 <p>ACME Industries Ltd.<br />Providing reliable tech since 1992</p>
             </aside>
             <nav>
